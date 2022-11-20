@@ -20,6 +20,8 @@
 
 # Customer Satisfaction Score(CSS) & Net Promoter Score(NPS)
 
+* CUSTOMER JOURNEY ANALYTICS
+
 * Comparison of satisfaction scores of female and male passengers.
 
 * Comparing the Eco Flying Male and Eco Flying Female tables and interpreting the differences.
