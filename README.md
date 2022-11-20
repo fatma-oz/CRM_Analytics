@@ -22,7 +22,7 @@
 
 * Comparison of satisfaction scores of female and male passengers.
 
-* Compare the Eco Flying Male and Eco Flying Female paintings and interpret the differences.
+* Comparing the Eco Flying Male and Eco Flying Female tables and interpreting the differences.
 
 * Testing whether there is a significant difference between satisfaction scores.
 
